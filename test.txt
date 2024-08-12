@@ -1,2 +1,7 @@
 adding more content into file
 adding data to remote files
+[master b162862] adding data to remote files
+ 4 files changed, 3 insertions(+), 1 deletion(-)
+ delete mode 100644 central.sh
+ create mode 100644 test.abc
+ create mode 100644 test.xlsx
