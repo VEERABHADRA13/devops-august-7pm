@@ -5,3 +5,4 @@ adding data to remote files
  delete mode 100644 central.sh
  create mode 100644 test.abc
  create mode 100644 test.xlsx
+working on commit
